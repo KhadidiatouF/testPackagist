@@ -1,0 +1,15 @@
+{
+    "name": "core/composer",
+    "description": "testpackagist",
+    "autoload": {
+        "psr-4": {
+            "Core\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khadija fall"
+        }
+    ],
+    "require": {}
+}
